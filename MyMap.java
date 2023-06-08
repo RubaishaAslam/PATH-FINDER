@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 5
  * This class implements a graph to store the map and finds a path
  * from the starting point to the destination while keeping the conditions satisfied and if not says not found 
